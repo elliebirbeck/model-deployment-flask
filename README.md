@@ -10,3 +10,5 @@ To run locally:
 - Install the Python dependencies `pip install -r requirements.txt`
 - Run the API `python api.py`
 - Open a web browser and go to `http://localhost:8000`
+
+![screenshot.png](screenshot.png)
