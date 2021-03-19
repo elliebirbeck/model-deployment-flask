@@ -1,5 +1,5 @@
 Flask==0.12
-Jinja2==2.9.5
+Jinja2==2.11.3
 numpy==1.13.1
 scikit-learn==0.18.1
 scipy==0.18.1
